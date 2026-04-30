@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا نور روحي في الظلام
+> أين أنت يا غرام
+> شوق قلبي لا ينام
+> عد إلي هذا حرام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
